@@ -2,7 +2,9 @@
 
 ## Module-10 Object-oriented Programming: 
 ```md
-A Node.js command-line application that takes in user input to generate a logo and save it as an SVG. The application prompts the user to select a color and shape, provide text for the logo, and save the generated SVG to a `.svg` file.
+A Node.js command-line application that takes in user input to generate a SVG Logo.
+The application prompts the user to select a shape and a color for the logo. 
+Save the generated SVG to a `.svg` file.
 ```
 
 ## Table of Contents
