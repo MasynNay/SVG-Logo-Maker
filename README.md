@@ -55,4 +55,4 @@ Run this application with "npm start".
 
 ## Video Demonstration
 
-https://drive.google.com/drive/folders/16PgfN5ARR-5rX6K1b12N_M3-ra85iuLk?usp=share_link
+https://drive.google.com/file/d/1KAktiO8dkTO4kC7J6vnjE7xLU20MtqPv/view?usp=share_link
