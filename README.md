@@ -43,12 +43,15 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 ## Installation
 
 ```md
-User will need to have Node.js with an active terminal to run this application. Install "npm i" in your command line in the respective directory, run tests with "npm test", and run this application with "npm start".
+User will need to have Node.js with an active terminal to run this application.
+Install "npm i" in your command line in the respective directory.
+Run tests with "npm test"
+Run this application with "npm start".
 ```
 
 ## Application Demonstration
 
-![](./assets/images/Application-Demo.png)
+![](./main/assets/images/Application-Demo.png)
 
 ## Video Demonstration
 
